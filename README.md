@@ -5,3 +5,5 @@ This project mainly include holding users scores, high scores listing, ranking, 
 Also, you can show scoreboard anytime and anywhere easily, the score table is displayed with the ID of the user. 
 
 You can see how to get scores with trigger or collider for using in your own code. 
+
+Even if the game is closed, users' scores are not deleted, it has a example for player prefs usage. 
